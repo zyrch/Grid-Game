@@ -1,8 +1,7 @@
 
 GridWorld Game
 
-You have to create a game in python where the player has to reach the goal position from the
-start position, collecting all the randomly spawned rewards and avoiding obstacles.
+The player has to reach the goal position from the start position, collecting all the randomly spawned rewards and avoiding obstacles.
 
 ● The grid is of size n X n. You have to take n as an input from the user. The start and goal
 positions should be randomly placed on the boundary.
