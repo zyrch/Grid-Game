@@ -1,6 +1,18 @@
 
 # Grid-World Game
 
+## How to Run
+
+```bash
+python main.py
+```
+
+## Sample
+
+![](https://github.com/zyrch/Grid-Game/blob/master/Screens/example-move.gif)
+
+## Rules
+
 The player has to reach the goal position from the start position, collecting all the randomly spawned rewards and avoiding obstacles.
 
 ● The grid is of size n X n. You have to take n as an input from the user. The start and goal
